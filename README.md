@@ -163,7 +163,7 @@ métodos adecuados. Envía JSON en el body para las solicitudes POST y PUT.
 
 ## Instalación:
 - Clona este repositorio:
-git clone https://github.com/karensalazar3/EjerciciosExpress/tree/main
+git clone (https://github.com/karensalazar3/EjerciciosExpressKs/tree/main)
 - Instala las dependencias:
 npm install express
 - Ejecuta los archivos:
